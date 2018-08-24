@@ -1,3 +1,4 @@
+%% Copyright 2012 Mohammad Imrul Jubair
 function charRecog()
 
 delete files/base.xls
